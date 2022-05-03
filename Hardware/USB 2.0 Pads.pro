@@ -1,4 +1,4 @@
-update=16/04/2022 12:43:04 PM
+update=4/05/2022 9:03:54 AM
 version=1
 last_client=pcbnew
 [general]
@@ -27,7 +27,7 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=USB 2.0 Pads.net
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=0.8
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
