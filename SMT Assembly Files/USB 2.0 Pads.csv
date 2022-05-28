@@ -1,0 +1,3 @@
+Id,Ref Des,Qty,Manufacturer,Mfg Part #,Designation,Package,Type,Notes
+1,P1,1,Molex,105444-0001,USB_C_Plug_USB2.0,USB_C_Plug_Molex_105444,SMD,Please solder either side.
+2,R1,1,YAGEO,RC0805FR-075K1L,5.1k,R_0805_2012Metric,SMD,

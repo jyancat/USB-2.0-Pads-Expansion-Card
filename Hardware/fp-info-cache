@@ -1,4 +1,4 @@
-19309135933439588
+19332273671170696
 2041262-1
 20412621
 2041262-1-2
@@ -50729,6 +50729,13 @@ Framework-Logo_1.5mm_SilkScreen
 0
 0
 Expansion_Card
+PinSocket_1x05_P2.54mm_HorizontalNosilk
+Through hole angled socket strip, 1x05, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x05 2.54mm single row
+0
+5
+5
+Expansion_Card
 PinSocket_8FM-78-0010-02-146_1x10_P2.54mm_Horizontal_SMD
 
 
@@ -76503,6 +76510,13 @@ LED
 2
 2
 SamacSys_Parts
+LEDC2012X120N
+LTST-C170KYKT
+LED
+0
+2
+2
+SamacSys_Parts
 LTSTC190TBKT
 LTST-C190TBKT-3
 LED
@@ -76524,6 +76538,13 @@ MOSFET (N-Channel)
 3
 3
 SamacSys_Parts
+PTS526SM15SMTR2LFS
+PTS526 SM15 SMTR2 LFS-2
+Switch
+0
+4
+4
+SamacSys_Parts
 QFN40P800X800X90-69N-D
 XC9276DF69MR-G
 Integrated Circuit
@@ -76537,6 +76558,20 @@ Integrated Circuit
 0
 25
 25
+SamacSys_Parts
+QFN50P500X500X100-33N-D
+RHB0032E_02021
+Integrated Circuit
+0
+33
+33
+SamacSys_Parts
+QFP80P900X900X160-32N
+VF0032A
+Integrated Circuit
+0
+32
+32
 SamacSys_Parts
 RESC1608X50N
 CRCW0603
@@ -76558,6 +76593,13 @@ Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+SOIC127P600X175-16N
+D (R-PDSO-G16)
+Integrated Circuit
+0
+16
+16
 SamacSys_Parts
 SOIC127P780X200-16N
 NS (R-PDSO-G16)
@@ -76587,6 +76629,13 @@ Integrated Circuit
 24
 24
 SamacSys_Parts
+SOP65P640X120-8N
+PW0008A
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
 SOP65P778X199-28N
 28 SSOP
 Integrated Circuit
@@ -76609,7 +76658,7 @@ Integrated Circuit
 28
 SamacSys_Parts
 SOT65P210X110-5N
-DF5A5.6FUTE85LF
+5-Pin SOT-353
 Integrated Circuit
 0
 5
@@ -76622,12 +76671,33 @@ Transistor
 6
 6
 SamacSys_Parts
+SOT95P280X145-5N
+DBV0005A
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts
 SP301204UTG
 SP3012-04UTG-1
 TVS Diode (Uni-directional)
 0
 10
 10
+SamacSys_Parts
+TECONN-4POS-USB
+292303
+Connector
+0
+6
+6
+SamacSys_Parts
+TPD4S012DRYR
+TPD4S012DRYR-3
+Integrated Circuit
+0
+6
+6
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -77014,12 +77084,33 @@ GCT_SIM8051-6-0-14-00-X-REVD
 8
 8
 SnapEDA Library
+GCT_USB4060-XX-X_REVA
+
+
+0
+28
+28
+SnapEDA Library
 GCT_USB4155-03-C_REVA
 
 
 0
 26
-26
+25
+SnapEDA Library
+IC_ADS125H01IRHBT
+
+
+0
+38
+38
+SnapEDA Library
+JAE_DX07B024JJ1R1500
+
+
+0
+32
+32
 SnapEDA Library
 QFN40P700X700X100-57N
 
@@ -77062,6 +77153,13 @@ SOTFL50P160X85-3N
 0
 3
 3
+SnapEDA Library
+TE_5787617-4
+
+
+0
+12
+12
 SnapEDA Library
 TO254P1524X483-4N
 
