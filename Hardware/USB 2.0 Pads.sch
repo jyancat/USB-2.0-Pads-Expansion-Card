@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "USB 2.0 Pads"
-Date "2022-04-16"
+Date "2022-05-28"
 Rev "A"
 Comp "Josh Cook"
 Comment1 ""
